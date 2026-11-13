@@ -86,4 +86,5 @@
 불편한 점이나 필요한 기능이 있으면 편하게 알려 주세요. 귀찮음을 하나 더 없애는 데 쓰겠습니다.
 
 - 카카오톡 오픈채팅: https://open.kakao.com/o/smcNTRTi
+- 써 보신 후기(로그인 없이 익명, 1분): [짧은 후기 남기기](https://docs.google.com/forms/d/e/1FAIpQLSdKWNJnEpo5nll4kNuSspGyX1YqiLKwcZY65dfPfn2kEJPISw/viewform)
 - 블로그: https://blog.naver.com/jabil_free
