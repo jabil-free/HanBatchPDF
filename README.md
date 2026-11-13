@@ -24,6 +24,7 @@
 ### [최신 버전 받기](../../releases/latest)
 
 1. 위 링크를 누른 뒤, 아래쪽 **Assets** 목록에서 `HanBatchPDF`로 시작하는 zip 파일을 받습니다. (`Source code`는 받지 않아도 됩니다.)
+   바로 받기: [HanBatchPDF.zip](https://github.com/jabil-free/HanBatchPDF/releases/latest/download/HanBatchPDF.zip) — 누르면 최신 판 zip이 바로 받아집니다.
 2. zip 파일을 오른쪽 클릭해 **압축 풀기**를 합니다. 압축 창 안에서 바로 실행하면 "Failed to load Python DLL"이라는 영어 오류 창이 뜨고 열리지 않습니다.
 3. 압축을 푼 `HanBatchPDF` 폴더 안의 `HanBatchPDF.exe`를 실행합니다. 따로 설치할 필요는 없지만, 폴더 안의 다른 파일은 옮기거나 지우지 말고 그대로 두세요.
 
@@ -72,7 +73,7 @@
 
 | | 무료판 (지금 받는 판) | 정식판 (준비 중) |
 |---|---|---|
-| 명단별 문서 제작 | 처음 3명까지 만들어 보기 | 제한 없음 |
+| 명단별 문서 제작 | 한 번에 3명씩, 이어서 누르면 명단 끝까지 | 한 번에 전부 |
 | PDF 일괄 변환 | 한 번에 10개씩, 이어서 누르면 개수 제한 없음 | 한 번에 제한 없음 |
 | 동시에 쓰는 한글 수 | 2개 | 1~4개 중 선택 |
 
